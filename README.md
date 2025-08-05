@@ -1,10 +1,10 @@
 # 🔐 Firebase Auth Repository
 
-[![pub package](https://img.shields.io/pub/v/flutter_firebase_auth_repository.svg)](https://pub.dev/packages/flutter_firebase_auth_repository)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![platforms](https://img.shields.io/badge/platforms-android%20|%20ios-lightgrey.svg)](https://pub.dev/packages/flutter_firebase_auth_repository)
-[![Flutter](https://img.shields.io/badge/Flutter-%3E%3D3.3.0-blue.svg)](https://flutter.dev)
-[![Dart](https://img.shields.io/badge/Dart-%5E3.8.1-blue.svg)](https://dart.dev)
+[![pub package](https://img.shields.io/pub/v/flutter_firebase_auth_repository.svg?style=flat-square)](https://pub.dev/packages/flutter_firebase_auth_repository)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+[![platforms](https://img.shields.io/badge/platforms-android%20|%20ios-lightgrey.svg?style=flat-square)](https://pub.dev/packages/flutter_firebase_auth_repository)
+[![Flutter](https://img.shields.io/badge/Flutter-%3E%3D3.3.0-blue.svg?style=flat-square)](https://flutter.dev)
+[![Dart](https://img.shields.io/badge/Dart-%5E3.8.1-blue.svg?style=flat-square)](https://dart.dev)
 
 A comprehensive Flutter/Dart plugin for handling Firebase Authentication with multiple providers. Built with clean architecture, it integrates seamlessly with Firestore and supports Android/iOS out-of-the-box.
 

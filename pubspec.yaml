@@ -1,9 +1,10 @@
 name: flutter_firebase_auth_repository
-description: A comprehensive Flutter/Dart package that provides a simple, clean repository for handling Firebase Authentication with multiple providers.
-# Make sure your version follows semantic versioning (e.g., 1.0.0)
-version: 1.0.0
-homepage: https://github.com/MineHope16/Flutter-Dev-Firebase-Authentication-Repository.git
+description: Clean Firebase Authentication repository with multiple providers - Google, Facebook, GitHub, Microsoft. Includes Firestore integration.
+version: 1.0.2
+homepage: https://github.com/MineHope16/Flutter-Dev-Firebase-Authentication-Repository
 repository: https://github.com/MineHope16/Flutter-Dev-Firebase-Authentication-Repository.git
+issue_tracker: https://github.com/MineHope16/Flutter-Dev-Firebase-Authentication-Repository/issues
+documentation: https://github.com/MineHope16/Flutter-Dev-Firebase-Authentication-Repository/blob/main/README.md
 
 environment:
   sdk: ^3.8.1

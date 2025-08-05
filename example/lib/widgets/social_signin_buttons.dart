@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_firebase_auth_repository/firebase_auth_repository.dart';
+import 'package:flutter_firebase_auth_repository/flutter_firebase_auth_repository.dart';
 
 /// A widget that provides social sign-in buttons
 class SocialSignInButtons extends StatefulWidget {

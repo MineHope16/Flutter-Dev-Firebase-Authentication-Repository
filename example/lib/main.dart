@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
-import 'package:flutter_firebase_auth_repository/firebase_auth_repository.dart';
+import 'package:flutter_firebase_auth_repository/flutter_firebase_auth_repository.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 
 void main() async {
